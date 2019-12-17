@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="adoc" type="PLAIN_TEXT" />
       <mapping ext="json" type="PLAIN_TEXT" />
+      <mapping ext="db" type="SQL" />
     </extensionMap>
   </component>
 </application>
